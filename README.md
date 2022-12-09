@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React Radix Connect Button
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About
+
+- see `App.js` for connect-button configuration and usage
+
+See [connect-button repository](https://github.com/radixdlt/connect-button) for more information
 
 ## Available Scripts
 
